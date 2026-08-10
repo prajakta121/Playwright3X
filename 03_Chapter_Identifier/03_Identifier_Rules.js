@@ -1,0 +1,23 @@
+var a=10;
+console.log(a);
+
+var $=120;
+console.log($);
+var _A=30;
+console.log(_A);
+var pp=34;
+console.log(pp);
+var ab123=89;
+console.log(ab123);
+var _=11;
+console.log(_);
+var Name='Prajakta';
+console.log(Name);
+var name='prajakta';
+console.log(name);
+var prajakta_mane='hello';
+console.log(prajakta_mane);
+var Praj$mane='hello';
+console.log(Praj$mane);
+var praj123='hello';
+console.log(praj123);
